@@ -41,7 +41,7 @@ h2 {
 
 progress {
     height: 6px;
-    width: 0%;
+    width: 0;
     background-color: #333;
 }
 
