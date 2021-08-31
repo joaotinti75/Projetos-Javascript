@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #dbb1bd;
+}
+
+.foto-container {
+    width: 100%;
+    text-align: center;
+}
+
+.botao {
+    width: 60px;
+    height: 60px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+}
+
+.container > div {
+    cursor: pointer;
+}
