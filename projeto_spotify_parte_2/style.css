@@ -37,9 +37,10 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    margin-bottom: 1rem;
 }
 
-progress {
+.progress {
     height: 6px;
     width: 0;
     background-color: #333;
